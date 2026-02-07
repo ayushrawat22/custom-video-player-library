@@ -1,3 +1,4 @@
+//was given like this in the doc shared
 document.addEventListener("DOMContentLoaded", () => {
   initVideoPlayer({
     videoElement: "#guitarVideo",
